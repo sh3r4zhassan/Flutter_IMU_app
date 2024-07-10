@@ -1,5 +1,4 @@
-Flutter app that displays and stores IMU data.
-
+Flutter app that displays and stores IMU data and also stores it as an excel file
 
 A few resources to get you started for Flutter projects:
 
